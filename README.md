@@ -3,7 +3,7 @@
 
 ### 💫 About Me
 
-- 🌐 **Portfolio:** sepfivepencer.org 
+- 🌐 **Portfolio:** https://www.sepfivepencer.org 
 - 📫 **Reach me at:** OucHupengcheng@outlook.com
 
 ---
