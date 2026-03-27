@@ -18,14 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-&nbsp; <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepfivepencer&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sepfivepencer&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🤝 Connect with me
 
