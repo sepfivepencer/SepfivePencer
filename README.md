@@ -3,7 +3,8 @@
 
 ### 💫 About Me
 
-- 🌐 **Portfolio:** https://www.sepfivepencer.org 
+- 🧑‍💻 I make computers behave (mostly) — building full-stack systems with TypeScript, Python, PostgreSQL, Docker, and AWS.
+- 🐛 Professional bug whisperer; occasionally blaming DNS.
 - 📫 **Reach me at:** OucHupengcheng@outlook.com
 
 ---
